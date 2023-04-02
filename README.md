@@ -99,27 +99,26 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-* Profit Prediction
+* Profit Prediction graph
 <img width="453" alt="1" src="https://user-images.githubusercontent.com/93427089/229071245-51174509-5d26-45e9-a079-c150fefc6da2.png">
 
-* Call the function
+* Compute Cost Value
 <img width="120" alt="2" src="https://user-images.githubusercontent.com/93427089/229071270-ba9929fe-a8db-4368-803e-5b677f47c49e.png">
 
-* GradientDescent
+* h(x) Value
 <img width="137" alt="1" src="https://user-images.githubusercontent.com/93427089/229071719-7ec64a70-4162-4507-b652-3b7d2167dec8.png">
 
-* Cost function using Gradient Descent
+* Cost function using Gradient Descent Graph
 <img width="455" alt="2" src="https://user-images.githubusercontent.com/93427089/229071912-91e1c349-1365-4601-b5c2-e97e09ec6943.png">
 
-* Profit Prediction
+* Profit Prediction Graph
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/93427089/229072207-99b78dc3-1fee-4539-98cb-0c3f3f60d014.png">
 
-* For population = 35,000
+* Profit for the Population 35,000
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/93427089/229072369-277c5729-251a-4181-8a44-29c96cf12b67.png">
 
-* For population = 70,000
+* Profit for the Population 70,000
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/93427089/229072454-9b76db0f-9f90-46e7-b42a-8f13ddf19815.png">
-
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
